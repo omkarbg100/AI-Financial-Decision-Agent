@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain-google-genai
+pandas
+pydantic
+python-dotenv
+pillow
