@@ -1,6 +1,6 @@
-# Financial Agent
+# Buy or Wait? — AI Financial Decision Agent
 
-An AI-powered financial agent built using LangGraph, LangChain, and the Gemini API.
+> An AI-powered financial agent that evaluates whether a user can safely afford a requested expense. Built using **LangGraph**, **LangChain**, and the **Gemini API**, it reconstructs the user's 90-day financial forecast from structured data (CSVs), messages, and images to recommend whether to pay in full, partially, via installments, wait, or not proceed.
 
 ## Requirements
 - Python 3.9+
