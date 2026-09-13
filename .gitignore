@@ -5,6 +5,7 @@ venv
 # Environment files with real secrets — NEVER commit these
 agent_code/.env
 *.env.local
+*.env
 
 # OS files
 .DS_Store
