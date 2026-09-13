@@ -3,6 +3,7 @@
 __pycache__
 venv
 # Environment files with real secrets — NEVER commit these
+.env
 agent_code/.env
 *.env.local
 *.env
